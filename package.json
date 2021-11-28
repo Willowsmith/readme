@@ -1,0 +1,25 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.2.0",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Willowsmith/readme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Willowsmith/readme/issues"
+  },
+  "homepage": "https://github.com/Willowsmith/readme#readme"
+}
